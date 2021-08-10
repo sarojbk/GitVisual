@@ -14,4 +14,6 @@ git stash apply stash@{3}
 git stash drop stash@{2}
 git diff f4a5065 stash@{0}
 git stash branch bstash1 stash@{0}
+git stash drop stash@{1}
+git stash clear
  
