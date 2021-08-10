@@ -17,3 +17,8 @@ git stash branch bstash1 stash@{0}
 git stash drop stash@{1}
 git stash clear
  
+git remote add origin https://github.com/sarojbk/GitVisual.git
+git push -u origin master
+
+
+
