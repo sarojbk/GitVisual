@@ -20,5 +20,6 @@ git stash clear
 git remote add origin https://github.com/sarojbk/GitVisual.git
 git push -u origin master
 
-chg 1
+chg 1 one
 chg 2
+chg two
