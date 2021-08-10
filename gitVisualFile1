@@ -12,3 +12,6 @@ git diff stash@{1} stash@{0} // compare latest stash to 2nd latest // statsh 0 w
 git stash pop
 git stash apply stash@{3}
 git stash drop stash@{2}
+git diff f4a5065 stash@{0}
+git stash branch bstash1 stash@{0}
+ 
