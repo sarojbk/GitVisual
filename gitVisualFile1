@@ -11,3 +11,4 @@ git diff head stash@{2} // stash 2 is the last stash n
 git diff stash@{1} stash@{0} // compare latest stash to 2nd latest // statsh 0 will become stash 1 when a new stash is added
 git stash pop
 git stash apply stash@{3}
+git stash drop stash@{2}
