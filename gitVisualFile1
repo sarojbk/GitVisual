@@ -20,21 +20,3 @@ git stash clear
 git remote add origin https://github.com/sarojbk/GitVisual.git
 git push -u origin master
 
-master chg 01
-
-master chg 02
-
-master chg 03
-
-
-master chg 04
-
-
-master working dir chg 05
-
-master chg 06
-
-chg 07
-
-chg 08
-
